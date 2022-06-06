@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damunyeusi.
-- 👀 I’m interested in Cloud Computing.
+- 👀 I’m interested in Cloud Computing and Web development.
 - 🌱 I’m currently learning cloud computing technologies.
 - 💞️ I’m looking to collaborate on any project that adds to learning.
 - 📫 How to reach me omondinyayieka@gmail.com
